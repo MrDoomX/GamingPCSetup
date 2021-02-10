@@ -84,7 +84,10 @@
    - Enabled
 - **Power Saving Options**
    - Disable all power saving options in drivers and for the adapter, more options are available in the latest Intel drivers sets.
-
+- **Green Ethernet**
+   - Disabled
+- **Energy-Efficient Ethernet**
+   - Disabled
 For more information on these settings see the **Intel** and the **Microsoft Performance Tuning Network Adapters, Performance Tuning for Low Latency Packet Processing** support guides in the **Network** section of the [Technical References](../../TECHNICAL%20REFERENCES/README.md) page.
 
 ## Realtek Network Adapter Settings
